@@ -1,0 +1,29 @@
+body { 
+    background-image: url("media/Sunset.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+a {
+    color: black;
+    font-style: normal;   
+    text-decoration: none;
+}
+
+.dotted div {
+    border: 2px outset black;
+}
+
+nav {
+    position: relative;
+    margin: 0px, 5px;
+    padding: 2px;
+    border-bottom: 5px inset turquoise;
+    border-top: 5px inset turquoise;
+    background-color: rgba(216, 174, 57, 0.5);
+}
+
+p {
+    color: black;
+    background-color: rgba(216, 174, 57, 0.3);
+}
